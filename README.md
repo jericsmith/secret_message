@@ -1,6 +1,13 @@
 # secret_message
 python package.  a fun program to scramble an alpha and space only message using images of letters. 
 
+This began as an exercise for a beginners Python course on Udacity.  I looked for the instructor's name to give
+kudos, but could find it nowhere.  If you are new to Python, take the course.  The instructor really is a great
+educator.  His videos explaining loops and if else statements were hilarious.
+
+https://www.udacity.com/course/programming-foundations-with-python--ud036
+
+
 Unless you want to add a fix to strip punctuation and other non alpha characters or an enhancement to accept 
 them, use the happy path for now.
 
